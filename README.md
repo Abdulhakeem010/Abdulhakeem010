@@ -1,5 +1,5 @@
 # 💫 About Me:
-#Hey, I'm Abdulhakeem 👋:
+# Hey, I'm Abdulhakeem 👋:
 <br> An aspiring frontend developer on a mission to build cool stuff and (eventually) fix real-world problems without breaking the internet in the process. I'm currently learning JavaScript and Data Structure, while also figuring out how GitHub works without accidentally deleting my whole repo. I love turning ideas into interactive websites and getting a little better with each project. When I'm not wrestling with semicolons, you'll probably find me watching anime, playing basketball, or exploring the Sunnah for timeless wisdom.<br><br> 🔭🔭 I’m currently working on:<br>Trail_Measure — a versatile tool for measuring distances and tracking paths, perfect for land surveyors, Casual walkers, and Joggers alike.
 
 
