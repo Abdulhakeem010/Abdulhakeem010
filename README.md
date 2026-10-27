@@ -57,7 +57,7 @@ A project I've contributed to. I'll add a more detailed description once I've do
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdulhakeem010&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=false)
+![Activity Graph](https://raw.githubusercontent.com/Abdulhakeem010/Abdulhakeem010/output/activity-graph.svg)
 
 
 <div align="center">
