@@ -18,7 +18,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
-          options: bg_color=000000&color=ffffff&line=ffffff&point=ffffff
+          options: "bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&custom_title=Abdulhakeem's Contribution Graph"
           output_path: dist/activity-graph.svg
 
       - name: Push SVG to the output branch
