@@ -1,12 +1,3 @@
-<div align="center">
-  <img src="assets/banner.svg" alt="Welcome to Abdulhakeem's Github" width="100%" />
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://bigmuak-portfolio-site.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
-
 <h2 align="center">👤 About me</h2>
 
 <img align="right" width="260" src="assets/about.svg" alt="Astronaut floating in space" />
@@ -36,8 +27,8 @@
 <h2 align="center">📈 Statistics</h2>
 
 <div align="center">
-    <img width="49% "height="150" src="https://github-readme-stats.vercel.app/api?username=Abdulhakeem010&show_icons=true&custom_title=Abdulhakeem%27s%20GitHub%20Stats&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&border_radius=0" alt="GitHub statistics" />
-  <img width="49%" height="150" src="https://streak-stats.demolab.com/?user=Abdulhakeem010&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=0" alt="GitHub streak" />
+    <!-- <img width="49% "height="150" src="https://github-readme-stats.vercel.app/api?username=Abdulhakeem010&show_icons=true&custom_title=Abdulhakeem%27s%20GitHub%20Stats&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&border_radius=0" alt="GitHub statistics" />
+  <img width="49%" height="150" src="https://streak-stats.demolab.com/?user=Abdulhakeem010&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=0" alt="GitHub streak" /> -->
 </div>
 
 <div align="center">
