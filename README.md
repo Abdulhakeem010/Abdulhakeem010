@@ -1,6 +1,6 @@
 <h2 align="center">👤 About me</h2>
 
-<img align="right" width="260" src="assets/about.svg" alt="Astronaut floating in space" />
+<!-- <img align="right" width="260" src="assets/about.svg" alt="Astronaut floating in space" /> -->
 
 <p>Hello There! I'm <b><i>Abdulhakeem</i></b>, a Computer Science undergraduate and aspiring software engineer. I enjoy building practical web experiences, learning how systems work, and improving through hands-on projects.</p>
 
